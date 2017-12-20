@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CrudF
 {
-    class City
+    public class City
     {
         public int nID { get; set; }
         public string sName { get; set; }
